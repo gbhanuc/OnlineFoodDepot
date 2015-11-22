@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OnlineFoodDepot/OnlineFoodDepot/bin/Debug
+/OnlineFoodDepot/OnlineFoodDepot/obj/Debug
